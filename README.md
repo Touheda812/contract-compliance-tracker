@@ -55,7 +55,7 @@ A pie chart summarizes invoice status (Approved vs Not Approved).
 
 > *(Add screenshots here once uploaded to GitHub)*
 
-- ![Contract Overview](overview.png)
+- ![Contract Overview](contract overview.png)
 - ![Document Compliance](compliance.png)
 - ![Invoice Log + Chart](invoice-chart.png)
 
