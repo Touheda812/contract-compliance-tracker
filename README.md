@@ -67,13 +67,6 @@ A pie chart summarizes invoice status (Approved vs Not Approved).
 
 ---
 
-## 📁 Download Options (Optional)
-
-- [Download as Excel (.xlsx)](LINK_TO_UPLOAD_ON_GITHUB)
-- [Download CSVs (optional)](LINK_IF_NEEDED)
-
----
-
 ## 🧩 Project Use Case
 
 Ideal for use by nonprofit organizations, government agencies, or community vendors who manage multiple city contracts. Useful in roles involving:
