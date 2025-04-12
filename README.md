@@ -36,7 +36,7 @@ Monitors:
 - Approval Status
 - Notes (e.g. “Missing backup” or “On hold”)
 
-A pie chart summarizes invoice status (Approved vs Not Approved).
+A pie chart visualizes the breakdown of invoice approval status — helping stakeholders quickly assess the proportion of approved vs. pending invoices.
 
 ---
 
